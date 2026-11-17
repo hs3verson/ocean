@@ -2,3 +2,4 @@ Ocean animals:
 turtle
 seadragon
 seahorse
+octopus
